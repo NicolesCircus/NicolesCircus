@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**NicolesCircus/NicolesCircus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Activity
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicolesCircus&theme=tokyonight" width="100%" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicolesCircus&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicolesCircus&theme=tokyonight" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicolesCircus&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NicolesCircus&theme=tokyonight&utcOffset=-8" width="49%" />
+</div>
