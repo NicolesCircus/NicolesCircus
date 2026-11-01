@@ -61,10 +61,9 @@ Ollama, SQLite.
 
 - Lawrence Berkeley National Laboratory:
   Machine Learning and Computer Vision
-- UC San Diego Picasso Lab:
-  Quantum Computing Research Assistance
 - UC San Diego:
-  Embedded Systems and Applied AI Projects
+  Quantum Computing Research Assistance
+
 
 ---
 
