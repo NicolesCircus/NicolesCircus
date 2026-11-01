@@ -41,7 +41,7 @@ My experience includes:
 
 ## Featured Projects
 
-### sniffKitty — Smart Cat Litter Health Monitor
+### SniffKitty — Smart Cat Litter Health Monitor
 
 An IoT-based system for monitoring cat litter box
 activity and environmental signals.
